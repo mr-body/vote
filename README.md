@@ -1,2 +1,2 @@
-# -vote
+# vote
 vote statistics
